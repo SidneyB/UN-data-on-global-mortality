@@ -1,0 +1,2 @@
+# UN-data-on-global-mortality
+Data-Based Perspective on Reducing Mortality Rate in the Global Adult Population: Open-source U.N. data is used to correlate the mortality rate and certain key health risk factors of the world’s adult population. The objective is to conduct a concise analysis of real-world data and show the importance of increasing the per capita healthcare spending to effectively reduce mortality rate. The complex, yet limited, data sets are analyzed using polynomial regression fitting with regularization
